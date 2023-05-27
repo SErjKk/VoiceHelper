@@ -1,0 +1,1 @@
+     User_1: {Серёжа, 59, male}     User_2: {Маша, 79, male}     User_3: {Маша, 86, female}     User_4: {Ира, 73, female}
